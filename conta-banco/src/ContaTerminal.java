@@ -21,7 +21,7 @@ public class ContaTerminal {
         System.out.print("E para finalizar, digite o seu saldo: ");
         String saldo = scanner.nextLine();
 
-        System.out.println("Olá, " + nome + ", obrigado por abrir uma conta no Banco Continental! Sua agência é " + agencia + ", conta " + conta + " e seu saldo " + saldo + " já está disponível.");
+        System.out.println("Olá, " + nome + ", obrigado por abrir uma conta no Banco Continente! Sua agência é " + agencia + ", conta " + conta + " e seu saldo " + saldo + " já está disponível.");
 
         scanner.close();
     }
